@@ -1,0 +1,6 @@
+{
+  "name": "VoxScribe",
+  "description": "Professional audio transcription with speaker diarization and timestamped reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Audio Transcription", "Speaker Diarization", "Reporting"]
+}
